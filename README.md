@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+![Probot](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=Probot>&logoColor=#00B0D8)
+
