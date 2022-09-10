@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Probot](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=Probot>&logoColor=#00B0D8)
+![probot](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=probot>&logoColor=#00B0D8)
 
