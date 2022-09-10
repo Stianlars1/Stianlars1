@@ -4,6 +4,11 @@
 - 💬 Ask me about job opportunities or projects.
 - 📫 How to reach me: <mail> == stian.larsen@mac.com
 - ⚡ Fun fact: I produce music & programming...
+  
+"""   A little bit about me   """
+  - Been studying computer science since 2020, and will habe a Bachelors degree in May 2022.
+  
+  * I`ve been working on databases, websites, math, physics while studying. ...and more.
 <!--
 **Stianlars1/Stianlars1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
