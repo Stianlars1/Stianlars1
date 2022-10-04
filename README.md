@@ -1,14 +1,16 @@
 ### Hi there 👋
-- 🔭 I’m currently working on a music visualizer <website>
+I am a Norwegian computer engineer student!
+
+- 🔭 I’m currently working on a music visualizer <website> available at: https://www.audiovisualizer.io
 - 🤔 I’m currently learning ...React, ...Machine Learning, Robotics.
 - 💬 Ask me about job opportunities or projects.
-- 📫 How to reach me: <mail> == stian.larsen@mac.com
-- ⚡ Fun fact: I produce music & programming...
+- 📫 How to reach me? stian.larsen@mac.com : +47 926 89 781
+- ⚡ Fun fact: I produce music as well as coding...
   
 """   A little bit about me   """
-  - Been studying computer science since 2020, and will habe a Bachelors degree in May 2022.
+  - Been studying computer science since 2020, and will have a Bachelors degree in May 2022.
   
-  * I`ve been working on databases, websites, math, physics while studying. ...and more.
+  * I`ve been working on databases, websites, math, physics, remote systems and controllers  while studying, and more.
 <!--
 **Stianlars1/Stianlars1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
