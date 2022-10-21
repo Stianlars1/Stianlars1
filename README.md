@@ -8,7 +8,7 @@ I am a Norwegian computer engineer student!
 - ⚡ Fun fact: I produce music as well as coding...
   
 """   A little bit about me   """
-  - Been studying computer science since 2020, and will have a Bachelors degree in May 2022.
+  - Been studying for a Bachelor´s Degree in Computer Engineer since 2020, and will be done in May of 2023.
   
   * I`ve been working on databases, websites, math, physics, remote systems and controllers  while studying, and more.
 <!--
