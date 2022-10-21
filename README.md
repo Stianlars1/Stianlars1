@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Norwegian computer engineer student!
 
-- 🔭 I’m currently working on a music visualizer <website> available at: https://www.audiovisualizer.io
+- 🔭 I’m currently working on an audio visualizer <website> available at: https://www.audiovisualizer.io
 - 🤔 I’m currently learning ...React, ...Machine Learning, Robotics.
 - 💬 Ask me about job opportunities or projects.
 - 📫 How to reach me? stian.larsen@mac.com : +47 926 89 781
