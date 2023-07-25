@@ -1,8 +1,10 @@
 ### Hi there 👋
-I am a Norwegian computer engineer student!
+👨🏻‍💻 Currently working as a fullstack-developer 💻
 
-For the time being my passion is headed towards fullstack development, and everything 
-in between there...
+
+<!--
+**Stianlars1/Stianlars1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 - 🔭 I’ve created an audio visualizer <website> available at: https://www.audiovisualizer.io
 - 🤔 I’m currently learning ...React, #.NET, hardware and software regarding my bachelor thesis.
@@ -14,9 +16,7 @@ in between there...
   - Been studying for a Bachelor´s Degree in Computer Engineer since 2020, and will be done in May of 2023.
   
   * I`ve been working on databases, websites, math, physics, remote systems and controllers  while studying, and more.
-<!--
-**Stianlars1/Stianlars1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+  
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
