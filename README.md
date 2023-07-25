@@ -1,5 +1,5 @@
 ### Hi there 👋
-👨🏻‍💻 Currently working as a fullstack-developer 💻
+👨🏻‍💻 Currently working as a full-stack developer 💻
 
 
 <!--
